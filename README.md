@@ -41,3 +41,8 @@ $ cd src
 $ python preprocess.py --dataset movie (or --dataset book)
 $ python main.py --dataset movie (note: use -h to check optional arguments)
 ```
+
+###相关博客
+1、https://blog.csdn.net/qq_40006058/article/details/89742816 知识图谱与推荐系统之RippleNet 
+2、https://blog.csdn.net/Accepted_Lam/article/details/89258616  ripple net模型: 知识图谱结合推荐系统
+3、https://blog.csdn.net/weixin_34357267/article/details/87167388  推荐系统遇上深度学习(二十六)--知识图谱与推荐系统结合之DKN模型原理及实现...
